@@ -32,7 +32,12 @@ public class Game {
         // int[][] cellsToPlace = {{},{},{}};
 
 
-        // for (int itt = 0; itt < 9000; itt++) {
+       
+        
+    }
+
+    public void run() {
+    // for (int itt = 0; itt < 9000; itt++) {
         while (true) {
             draw();
             tick();
@@ -42,7 +47,6 @@ public class Game {
                 System.out.println("ERROR");
             }
         }
-        
     }
 
     public void tick() {
