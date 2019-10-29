@@ -1,7 +1,8 @@
 /**
  * Conway's game of life
  */
- 
+package gameoflife;
+
 import java.util.concurrent.TimeUnit;
 
 public class Game {

@@ -1,7 +1,6 @@
+package gameoflife;
 
-// import Game.*;
-
-public class Main {
+public class App {
     public static void main(String[] args) {
 
         Game game = new Game();
